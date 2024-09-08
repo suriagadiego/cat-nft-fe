@@ -27,7 +27,7 @@ This is a [Vite + React](https://vitejs.dev/guide/#trying-vite-online) starter t
 
 Caddy is a powerful, enterprise-ready, open source web server, and therefore Caddy is far better suited to serve websites than Vite is, using Caddy will result in much less memory and cpu usage compared to serving with Vite (much lower running costs too)
 
-To see how this is achieved with nixpacks, check out the fully documented nixpacks.toml file in this repository
+To see  how this is achieved with nixpacks, check out the fully documented nixpacks.toml file in this repository
 
 The configuration for Caddy is called a Caddyfile, and you can edit that file to further suite your needs, by default it comes configured to serve a single page app for React, and to also gzip the responses
 
